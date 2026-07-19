@@ -187,8 +187,8 @@ Conda is well-tested and widely used in the ML/AI community.
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 ```
 
 #### Step 2: Create Conda Environment
@@ -245,8 +245,8 @@ UV is significantly faster for dependency resolution and installation (~10x fast
 #### Step 1-2: Clone and Navigate
 
 ```bash
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 ```
 
 #### Step 3: Create Virtual Environment with UV
@@ -425,8 +425,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 For issues, questions, or suggestions, please:
 
 1. Check the [documentation](docs/)
-2. Search [existing issues](https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask/issues)
-3. Open a [new issue](https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask/issues/new)
+2. Search [existing issues](https://github.com/jaiminbhaduri/medical-chatbot/issues)
+3. Open a [new issue](https://github.com/jaiminbhaduri/medical-chatbot/issues/new)
 
 ---
 

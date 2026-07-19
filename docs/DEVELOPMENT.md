@@ -26,8 +26,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 
 # Create virtual environment
 conda create -n medibot-dev python=3.10 -y
@@ -758,7 +758,7 @@ async def process_queries_async(queries: List[str]):
 
 ## Getting Help
 
-- Check existing [Issues](https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask/issues)
-- Review [Discussions](https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask/discussions)
+- Check existing [Issues](https://github.com/jaiminbhaduri/medical-chatbot/issues)
+- Review [Discussions](https://github.com/jaiminbhaduri/medical-chatbot/discussions)
 - Read [ARCHITECTURE.md](ARCHITECTURE.md) for system design
 - Check [API.md](API.md) for endpoint documentation

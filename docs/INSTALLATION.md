@@ -54,8 +54,8 @@ Conda is widely used in the data science community and handles complex dependenc
 #### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 ```
 
 #### Step 2: Create Conda Environment
@@ -188,8 +188,8 @@ uv --version  # Should output version info
 #### Step 2: Clone Repository
 
 ```bash
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 ```
 
 #### Step 3: Create Virtual Environment
@@ -228,8 +228,8 @@ For those who prefer standard Python tools.
 #### Step 1-2: Clone and Navigate
 
 ```bash
-git clone https://github.com/jaiminbhaduri/medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask.git
-cd medical-chatbot-llm-langchain-pinecone-huggingface-aws-python-flask
+git clone https://github.com/jaiminbhaduri/medical-chatbot.git
+cd medical-chatbot
 ```
 
 #### Step 3: Create Virtual Environment
