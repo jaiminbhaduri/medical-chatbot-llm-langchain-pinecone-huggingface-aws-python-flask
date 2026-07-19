@@ -483,7 +483,7 @@ For issues, questions, or suggestions, please:
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot
+    - Save the URI: 487615743878.dkr.ecr.us-east-1.amazonaws.com/medicalbot
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
